@@ -79,8 +79,8 @@ content:
     content:
       - layout: left
         title: Accenture
-        link: accenture
-        link_text: boringcompany.com
+        link: www.accenture.es
+        link_text: accenture
         sub_title: Software Architect
         caption: June 2017 - Present
         # quote: >
