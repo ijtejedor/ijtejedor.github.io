@@ -82,6 +82,28 @@ content:
         link: www.accenture.es
         link_text: accenture
         sub_title: Software Architect
+        caption: May 2020 - Present
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+          <mark>Specialized areas:</mark> integration, big data.
+
+          Product development.
+
+          Continuous delivery; devops culture.
+
+          Definition and development of software architectures.
+
+          Technical support IT team, consulting and development.
+
+          Support sales department as a technical presales.
+
+          <mark>Technology:</mark> Cloudera, OpenERP, Odoo, json, json-schema, Java, Spark, Hadoop, Flume, PostgresSQL, Hortonworks, Stratio Platform, Docker, Kubernetes, Maven, Jira, Jenkins, Bamboo, Artifactory, Nexus, SonarQube, Gitlab, HREL7, Centos7, Ansible, Azure, AWS.
+
+      - layout: left
+        title: Pragsis Bidoop
+        link_text: pragsis
+        sub_title: Software Architect
         caption: June 2017 - Present
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -98,7 +120,7 @@ content:
 
           Support sales department as a technical presales.
 
-          <mark>Technology:</mark> Cloudera, OpenERP, Odoo, json, json-schema, Java, Spark, Hadoop, Flume, PostgresSQL, Hortonworks, Stratio Platform, Docker, Kubernetes, Maven, Jira, Jenkins, Bamboo, Artifactory, Nexus, SonarQube, Gitlab, HREL7, Centos7, Ansible, Azure.
+          <mark>Technology:</mark> Cloudera, OpenERP, Odoo, json, json-schema, Java, Spark, Hadoop, Flume, PostgresSQL, Hortonworks, Stratio Platform, Docker, Kubernetes, Maven, Jira, Jenkins, Bamboo, Artifactory, Nexus, SonarQube, Gitlab, HREL7, Centos7, Ansible, Azure, AWS.
 
       - layout: left
         title: Mnemo
@@ -118,6 +140,84 @@ content:
           Support sales department as a technical presales.
 
           <mark>Technology:</mark> Mule ESB, RAML, Java, Spark, Hadoop, Kafka, Flume, Cassandra, PostgresSQL, MySQL, MariaDB, Hortonworks, Stratio Platform, Docker, Maven, Jira, Bamboo, Jenkins, Artifactory, SonarQube, Gitlab, HREL7, Centos7, Ubuntu, Geoserver.
+
+      - layout: left
+        title: Sage
+        link: www.sage.com
+        link_text: sage
+        sub_title: Software Development
+        caption: January 2014 - November 2015
+        description: |
+          Development of secure communications applications belonging to the ESB architecture MuleSoft (APIs Rest).
+
+          Development of ESB architecture with MuleSoft.
+          
+          Development of .NET applications that connect to the ESB MuleSoft.
+
+          Development of the centralized logs system with the ELK stack.
+
+          Analysis and definition of the data model.
+
+          <mark>Technology:</mark> Mule ESB, RAML, json, json-chema, .NET, MySQL, NodeJS, Elasticsearch, Logstash, Kibana, Redis, Nuget, Maven, Sonarqube, TFS.
+
+      - layout: left
+        title: Indra Sistemas
+        link: https://www.indracompany.com
+        link_text: indra
+        sub_title: Project Manager
+        caption: October 2011 - September 2012
+        description: |
+          Deploy projects on iOS, Android, and Blackberry platform customers in the insurance sector (MAPFRE), financial (Citi) or dashboards for General Elections (Electopad).
+
+          Resource management, project planning.
+
+          IOS native applications.
+
+          Android native applications.
+
+          Blackberry native applications.
+
+          Mobility frameworks (Phonegap, Titanium).
+
+          Mobile devices backend as web services.
+
+          <mark>Technology:</mark> J2EE, Tomcat, SOAP, JSON, ORACLE, SQL Server, MySQL, PostgreSQL.
+
+      - layout: left
+        title: GFT Group
+        link: https://www.gft.com
+        link_text: gft
+        sub_title: Software engineer
+        caption: March 2008 - March 2011
+        description: |
+          Development of strategic bank projects with the Microsoft solution, BizTalk Server.
+
+          Resource management, project planning.
+
+          Analysis, design and development of EAI architecture.
+
+          Analysis, design and development of EAI projects.
+
+          <mark>Technology:</mark> BizTalk Server, Visual Studio, WCF, SOA, SQL Server, DB2 (UDB).
+
+      - layout: left
+        title: Valia
+        link: https://www.gft.com
+        link_text: valia
+        sub_title: Software engineer
+        caption: March 2008 - March 2011
+        description: |
+          Development of strategic bank projects with the Microsoft solution, BizTalk Server.
+
+          Resource management, project planning.
+
+          Analysis, design and development of EAI architecture.
+
+          Analysis, design and development of EAI projects.
+
+          <mark>Technology:</mark> BizTalk Server, Visual Studio, WCF, SOA, SQL Server, DB2 (UDB).
+
+
 
   # - title: Education # Title for the section
   #   layout: list # Type of content section (list/text)
