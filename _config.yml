@@ -52,7 +52,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  More than two decades of experience in software development in Java and .NET technologies (integration, big data, cyber intelligence, devops). Tracking all stages of development.
+  I am a seasoned software professional with over 20 years of experience in developing robust and scalable software solutions. Throughout my career, I have held key roles such as Software Architect, Project Manager, and Software Engineer.
+
+  My expertise lies in critical areas such as integration, big data, and cyber intelligence, where I have led projects from strategic planning and architectural design to the implementation of innovative technological solutions. I possess deep technical proficiency in cutting-edge technologies such as Java, .NET, Hadoop, Spark, Docker, Kubernetes, and various cloud platforms, all of which have enabled me to drive continuous delivery practices and foster a DevOps culture that optimizes operational efficiency.
+
+  Passionate about technology and continuous learning, I remain committed to staying at the forefront of industry trends and advancements. This commitment allows me to blend strategic vision with precise technical execution, ensuring successful outcomes in both enterprise solution design and technical consultancy.
 
 content:
   # - title: Projects # Title for the section
