@@ -8,3 +8,5 @@ _site
 _site
 Gemfile.lock
 *.code-workspace
+
+.idea
